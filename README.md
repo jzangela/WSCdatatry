@@ -25,7 +25,7 @@ You can install the development version of regexcite from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("jzangela/WSC_data_try")
+devtools::install_github("jzangela/WSCdata")
 ```
 
 ## Usage
